@@ -1,4 +1,4 @@
-// using for omly clock
+// using for Analog clock
 
 let hr = document.getElementById('hour');
 let mn = document.getElementById('min');
